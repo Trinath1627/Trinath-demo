@@ -1,4 +1,4 @@
 # Trinath-demo
 This is my first git repository.
 <br>
-author -> Kethavath Trinath
+author -> Kethavath Trinath (tillu)
